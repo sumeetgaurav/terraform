@@ -1,0 +1,22 @@
+# Terraform uses Hashicorp Configuration Language that has 3 major things:
+
+#<block>  <parameters>{
+
+#<arguments>
+
+#}
+
+1. block
+      - resource
+      - variable
+      - output
+      - data
+      - provider
+
+2. parameters
+     - name
+     - value
+
+3. arguments
+
+    - configuration
